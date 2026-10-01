@@ -1,0 +1,13 @@
+# Arquivos de uso pessoal / assistente — não versionar
+CLAUDE.md
+**/CLAUDE.md
+.claude/
+CONTEXTO_ATIVIDADE_CARDIOIA.md
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
